@@ -103,6 +103,6 @@ I'm always open to discussing new opportunities, collaborations, or projects. Wh
 ### Let's build something together
 *Looking for new opportunities and interesting projects. Always excited to discuss technical challenges and potential collaborations.*
 
-[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-6E134C?style=for-the-badge)](https://www.linkedin.com/in/seanmishra/)
+[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-6E134C?style=for-the-badge)](https://seanmishra.com/contact)
 
 </div>
