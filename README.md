@@ -29,7 +29,7 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 <th>Tooling</th>
 </tr>
 <tr>
-<td style="vertical-align: top;">
+<td valign="top">
 <a href="https://react.dev/">React</a><br>
 <a href="https://nextjs.org/">Next.js</a><br>
 <a href="https://www.typescriptlang.org/">TypeScript</a><br>
@@ -42,7 +42,7 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 <a href="https://lottiefiles.com/">Lottie</a><br>
 <a href="https://storybook.js.org/">Storybook</a>
 </td>
-<td style="vertical-align: top;">
+<td valign="top">
 <a href="https://nodejs.org/">Node.js</a><br>
 <a href="https://mongodb.com/">MongoDB</a><br>
 <a href="https://expressjs.com/">Express</a><br>
@@ -55,7 +55,7 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 <a href="https://jestjs.io/">Jest</a><br>
 <a href="https://testing-library.com/">Testing Library</a>
 </td>
-<td style="vertical-align: top;">
+<td valign="top">
 <a href="https://docker.com/">Docker</a><br>
 <a href="https://railway.app/">Railway</a><br>
 <a href="https://github.com/features/actions">GitHub Actions</a><br>
@@ -66,7 +66,7 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 <a href="https://aws.amazon.com/">AWS (S3, Lambda)</a><br>
 <a href="https://kubernetes.io/">Kubernetes</a>
 </td>
-<td style="vertical-align: top;">
+<td valign="top">
 <a href="https://git-scm.com/">Git</a><br>
 <a href="https://code.visualstudio.com/">VSCode</a><br>
 <a href="https://linear.app/">Linear</a><br>
