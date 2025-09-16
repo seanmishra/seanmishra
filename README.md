@@ -89,7 +89,7 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 
 I'm always open to discussing new opportunities, collaborations, or projects. Whether you have something specific in mind or just want to connect, feel free to [**reach out**](https://seanmishra.com/contact).
 
-**Currently available for:**
+**Currently available for:**  
 🟢 Full-time & Contract roles  
 🟢 Projects & Consulting  
 🟢 Content Collaborations  
