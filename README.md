@@ -85,6 +85,7 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 - [Building Force-Directed Graphs in React with D3.js](https://seanmishra.com/writing/building-force-directed-graphs-in-react-with-d3-js)
 <!-- BLOG-POST-LIST:END -->
 
+[![All Posts →](https://img.shields.io/badge/All_Posts_→-1E6C6F?style=for-the-badge)](https://seanmishra.com/writing)  
 
 ## connect //
 
