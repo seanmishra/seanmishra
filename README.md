@@ -81,7 +81,8 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 ## writing //
 
 <!-- BLOG-POST-LIST:START -->
-*Coming soon - stay tuned for insights on full-stack development, product building, and more!*
+- [The State of JavaScript in 2025](https://seanmishra.com/writing/state-of-javascript-2025)
+- [Building Force-Directed Graphs in React with D3.js](https://seanmishra.com/writing/building-force-directed-graphs-in-react-with-d3-js)
 <!-- BLOG-POST-LIST:END -->
 
 
