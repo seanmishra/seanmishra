@@ -1,7 +1,7 @@
 <!-- insert banner image from assets/images -->
 ![Banner](assets/images/sean-mishra-github-banner.png)
 
-### hello //
+## hello //
 
 I am Sean — a software engineer  based in Greater St. Louis, MO, USA.
 
@@ -9,7 +9,7 @@ I am Sean — a software engineer  based in Greater St. Louis, MO, USA.
 – Building side projects such as [Been A While](https://beenawhile.app) and [AO Toolkit](https://aotoolkit.com).
 – Working on a brand for my side projects at [The Rusty Token](https://therustytoken.com).
 
-### about //
+## about //
 
 I'm a full-stack software engineer who builds scalable, user-focused web and mobile apps. With strong product sense and an eye for clean design, I blend frontend finesse and backend architecture to ship fast and iterate even faster.
 
@@ -19,7 +19,7 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 
 [More about me →](https://seanmishra.com/about)
 
-### stack //
+## stack //
 
 <table>
 <tr>
@@ -78,14 +78,14 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 </tr>
 </table>
 
-### writing //
+## writing //
 
 <!-- BLOG-POST-LIST:START -->
 *Coming soon - stay tuned for insights on full-stack development, product building, and more!*
 <!-- BLOG-POST-LIST:END -->
 
 
-### connect //
+## connect //
 
 I'm always open to discussing new opportunities, collaborations, or projects. Whether you have something specific in mind or just want to connect, feel free to [**reach out**](https://seanmishra.com/contact).
 
@@ -101,7 +101,8 @@ I'm always open to discussing new opportunities, collaborations, or projects. Wh
 <div align="center">
 
 ### Let's build something together
-*Looking for new opportunities and interesting projects. Always excited to discuss technical challenges and potential collaborations.*
+*Looking for new opportunities and interesting projects.*
+*Always excited to discuss technical challenges and potential collaborations.*
 
 [![Get In Touch](https://img.shields.io/badge/Get_In_Touch-6E134C?style=for-the-badge)](https://seanmishra.com/contact)
 
