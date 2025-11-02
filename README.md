@@ -5,7 +5,7 @@
 
 I am Sean — a software engineer  based in Greater St. Louis, MO, USA.
 
-– Currently working as a Software Engineer at [Morrowcraft](https://morrowcraft.com).  
+– Currently working as a Software Engineering Consultant at [Turnberry Solutions](https://www.turnberrysolutions.com/).  
 – Building side projects such as [Been A While](https://beenawhile.app) and [AO Toolkit](https://aotoolkit.com).  
 – Working on a brand for my side projects at [The Rusty Token](https://therustytoken.com).
 
