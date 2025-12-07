@@ -95,7 +95,7 @@ I'm always open to discussing new opportunities, collaborations, or projects. Wh
 🟢 Full-time & Contract roles  
 🟢 Projects & Consulting  
 🟢 Content Collaborations  
-🟢 Mentorship (3/5 Slots open for 2026)
+🟢 Mentorship (3/5 Slots open for 2026)  
 🟢 Speaking & Debate  
 
 ---
