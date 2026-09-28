@@ -78,15 +78,6 @@ Beyond coding, I care deeply about good UX, thoughtful design, and the meaningfu
 </tr>
 </table>
 
-## writing //
-
-<!-- BLOG-POST-LIST:START -->
-- [The State of JavaScript in 2025](https://seanmishra.com/writing/state-of-javascript-2025)
-- [Building Force-Directed Graphs in React with D3.js](https://seanmishra.com/writing/building-force-directed-graphs-in-react-with-d3-js)
-<!-- BLOG-POST-LIST:END -->
-
-[![All Posts →](https://img.shields.io/badge/All_Posts_→-1E6C6F?style=for-the-badge)](https://seanmishra.com/writing)  
-
 ## connect //
 
 I'm always open to discussing new opportunities, collaborations, or projects. Whether you have something specific in mind or just want to connect, feel free to [**reach out**](https://seanmishra.com/contact).
